@@ -32,7 +32,7 @@ Perfect for building tools like file managers, system monitors, configuration ut
 
 ```bash
 # Clone or download this template
-git clone <your-repo-url>
+git clone git@github.com:TahaTesser/go-cli-template.git
 cd go-cli-template
 
 # Install dependencies
